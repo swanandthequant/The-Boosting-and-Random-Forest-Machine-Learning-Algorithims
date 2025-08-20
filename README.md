@@ -10,7 +10,7 @@ I Downloaded it online
 6.Model Evaluation (using r2_score, mean_absolute_error, mean_squared_error)
 
 ## what I learned
-I learned about How the Logistic regression is derived How can we make Predictions By using Logistic Regression
+I learned about How the Random forest(Regression) and boosting (Regression)Techniques are used for model Training and its prediction
 
 ## Project Updates
 This was the big project another one is upcoming of classifier
